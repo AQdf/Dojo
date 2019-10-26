@@ -1,0 +1,10 @@
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\bin\Debug\netcoreapp2.2\Sho.Dojo.deps.json
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\bin\Debug\netcoreapp2.2\Sho.Dojo.runtimeconfig.json
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\bin\Debug\netcoreapp2.2\Sho.Dojo.runtimeconfig.dev.json
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\bin\Debug\netcoreapp2.2\Sho.Dojo.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\obj\Debug\netcoreapp2.2\Sho.Dojo.csprojAssemblyReference.cache
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\obj\Debug\netcoreapp2.2\Sho.Dojo.AssemblyInfoInputs.cache
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\obj\Debug\netcoreapp2.2\Sho.Dojo.AssemblyInfo.cs
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\bin\Debug\netcoreapp2.2\Sho.Dojo.pdb
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\obj\Debug\netcoreapp2.2\Sho.Dojo.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo\obj\Debug\netcoreapp2.2\Sho.Dojo.pdb

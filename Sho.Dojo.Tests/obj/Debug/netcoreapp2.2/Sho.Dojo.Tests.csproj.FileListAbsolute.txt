@@ -1,0 +1,16 @@
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.Tests.deps.json
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.Tests.runtimeconfig.json
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.Tests.runtimeconfig.dev.json
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.Tests.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.Tests.pdb
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\bin\Debug\netcoreapp2.2\Sho.Dojo.pdb
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\obj\Debug\netcoreapp2.2\Sho.Dojo.Tests.csprojAssemblyReference.cache
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\obj\Debug\netcoreapp2.2\Sho.Dojo.Tests.AssemblyInfoInputs.cache
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\obj\Debug\netcoreapp2.2\Sho.Dojo.Tests.AssemblyInfo.cs
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\obj\Debug\netcoreapp2.2\Sho.Dojo.Tests.csproj.CopyComplete
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\obj\Debug\netcoreapp2.2\Sho.Dojo.Tests.dll
+E:\Code\Projects\Sho.Dojo\Sho.Dojo.Tests\obj\Debug\netcoreapp2.2\Sho.Dojo.Tests.pdb
